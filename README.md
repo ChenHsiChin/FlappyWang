@@ -8,3 +8,4 @@
 > Awesome man! What can i say? Just F*ck it.
 
 ## 求 点赞 关注
+![screenshot](./bilibili_avator.png)

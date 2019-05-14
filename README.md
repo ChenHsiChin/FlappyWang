@@ -7,5 +7,7 @@
 ## 吐槽
 > Awesome man! What can i say? Just F*ck it.
 
+## 游戏截图
+>![screenshot](./example1.png) ![screenshot](./example2.png)
 ## 求 点赞 关注
 ![screenshot](./bilibili_avator.png)

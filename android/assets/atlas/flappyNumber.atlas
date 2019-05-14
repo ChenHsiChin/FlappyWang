@@ -1,0 +1,145 @@
+
+flappyNumber.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+num_big
+  rotate: false
+  xy: 1, 1
+  size: 40, 60
+  orig: 40, 60
+  offset: 0, 0
+  index: 0
+num_big
+  rotate: false
+  xy: 43, 1
+  size: 40, 60
+  orig: 40, 60
+  offset: 0, 0
+  index: 1
+num_big
+  rotate: false
+  xy: 85, 1
+  size: 40, 60
+  orig: 40, 60
+  offset: 0, 0
+  index: 2
+num_big
+  rotate: false
+  xy: 127, 1
+  size: 40, 60
+  orig: 40, 60
+  offset: 0, 0
+  index: 3
+num_big
+  rotate: false
+  xy: 169, 1
+  size: 40, 60
+  orig: 40, 60
+  offset: 0, 0
+  index: 4
+num_big
+  rotate: false
+  xy: 211, 1
+  size: 40, 60
+  orig: 40, 60
+  offset: 0, 0
+  index: 5
+num_big
+  rotate: false
+  xy: 253, 1
+  size: 40, 60
+  orig: 40, 60
+  offset: 0, 0
+  index: 6
+num_big
+  rotate: false
+  xy: 295, 1
+  size: 40, 60
+  orig: 40, 60
+  offset: 0, 0
+  index: 7
+num_big
+  rotate: false
+  xy: 337, 1
+  size: 40, 60
+  orig: 40, 60
+  offset: 0, 0
+  index: 8
+num_big
+  rotate: false
+  xy: 379, 1
+  size: 40, 60
+  orig: 40, 60
+  offset: 0, 0
+  index: 9
+num_score
+  rotate: false
+  xy: 421, 29
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: 0
+num_score
+  rotate: false
+  xy: 448, 29
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: 1
+num_score
+  rotate: false
+  xy: 475, 29
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: 2
+num_score
+  rotate: false
+  xy: 502, 29
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: 3
+num_score
+  rotate: false
+  xy: 529, 29
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: 4
+num_score
+  rotate: false
+  xy: 556, 29
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: 5
+num_score
+  rotate: false
+  xy: 583, 29
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: 6
+num_score
+  rotate: false
+  xy: 610, 29
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: 7
+num_score
+  rotate: false
+  xy: 637, 29
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: 8
+num_score
+  rotate: false
+  xy: 664, 29
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: 9

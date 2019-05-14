@@ -1,0 +1,145 @@
+
+wang.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+my_qr
+  rotate: false
+  xy: 1, 536
+  size: 476, 485
+  orig: 476, 485
+  offset: 0, 0
+  index: -1
+game_title
+  rotate: false
+  xy: 1, 264
+  size: 454, 270
+  orig: 454, 270
+  offset: 0, 0
+  index: -1
+result
+  rotate: false
+  xy: 479, 788
+  size: 414, 233
+  orig: 414, 233
+  offset: 0, 0
+  index: -1
+floor
+  rotate: false
+  xy: 1, 202
+  size: 480, 60
+  orig: 480, 60
+  offset: 0, 0
+  index: -1
+my_avator
+  rotate: false
+  xy: 1, 73
+  size: 377, 127
+  orig: 377, 127
+  offset: 0, 0
+  index: -1
+btn
+  rotate: false
+  xy: 479, 676
+  size: 228, 110
+  orig: 228, 110
+  offset: 0, 0
+  index: 1
+btn
+  rotate: false
+  xy: 479, 564
+  size: 228, 110
+  orig: 228, 110
+  offset: 0, 0
+  index: 2
+game_over
+  rotate: false
+  xy: 1, 5
+  size: 238, 66
+  orig: 238, 66
+  offset: 0, 0
+  index: -1
+wang
+  rotate: false
+  xy: 895, 941
+  size: 111, 80
+  orig: 111, 80
+  offset: 0, 0
+  index: 1
+wang
+  rotate: false
+  xy: 709, 706
+  size: 111, 80
+  orig: 111, 80
+  offset: 0, 0
+  index: 2
+wang
+  rotate: false
+  xy: 895, 859
+  size: 111, 80
+  orig: 111, 80
+  offset: 0, 0
+  index: 3
+wang
+  rotate: false
+  xy: 709, 624
+  size: 111, 80
+  orig: 111, 80
+  offset: 0, 0
+  index: 4
+shit
+  rotate: false
+  xy: 380, 130
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: 1
+shit
+  rotate: false
+  xy: 822, 716
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: 2
+shit
+  rotate: false
+  xy: 822, 644
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: 3
+shit
+  rotate: false
+  xy: 895, 787
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: 4
+shit
+  rotate: false
+  xy: 894, 715
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: 5
+shit
+  rotate: false
+  xy: 894, 643
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: 6
+shit
+  rotate: false
+  xy: 241, 1
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: 7
+shit
+  rotate: false
+  xy: 313, 1
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: 8

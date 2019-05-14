@@ -1,0 +1,11 @@
+### Java template
+# Compiled class file
+*.class
+
+# out and target
+/.idea
+/.gradle
+/android/build
+/android/release
+/core/build
+
